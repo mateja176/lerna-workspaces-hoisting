@@ -17,6 +17,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
+    "react": "^16.8.6",
     "react-virtualized": "^9.21.1"
+  },
+  "devDependencies": {
+    "@types/react-virtualized": "^9.21.2"
   }
 }
